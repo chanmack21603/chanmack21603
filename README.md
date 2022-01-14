@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chanmack21603
+- 👋 Hi, I’m @chanmack21603, otherwise known as Chandler, but that name will also change soon, stay tuned!
 - 👀 I’m interested in web developing, specifically front-end and full-stack while learning more advanced software engineering on the side!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anything web developing and learning how to advance my projects more!
